@@ -15,7 +15,3 @@ bf-pixel
 senpai
 senpai-angry
 spirit
-weeg
-bf-mario
-weegdr
-bf-keyboard
